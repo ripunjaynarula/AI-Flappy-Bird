@@ -12,9 +12,13 @@ NEAT was used to find the simplest neural network architecture that can perfectl
 # Used Packages:
 
 ● Pygame
+
 ● Neat-python
+
 ● Time
+
 ● OS
+
 ● Random
 
 
